@@ -26,15 +26,6 @@ Cluster	Visit Score	Spending Rank	Interpretation
 1	Low	Low	Unbothered Users
 3	Low	High	Occasional Spenders
 4	High	Low	Casual Users
-
-
-🧩 Folder Structure
-📁 AI-Instagram-Clustering
-├── 📄 README.md
-├── 📁 data/
-│   └── instagram_users.csv
-├── 📁 notebooks/
-    └── clustering_analysis.ipynb
     
 
 📜 License
